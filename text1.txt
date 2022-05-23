@@ -1,2 +1,2 @@
-This is a file.Edit by Jangal.
-version 2
+This is a file.
+version 3
