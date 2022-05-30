@@ -1,5 +1,4 @@
 #!/bin/bash
-
 This is a file.
 version 3
 some diff
